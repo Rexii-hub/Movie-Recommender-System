@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+
+Files/similarity_tags_*.pkl
